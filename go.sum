@@ -1062,6 +1062,8 @@ github.com/noble-assets/forwarding/v2 v2.0.0-20241017154500-56685530d602 h1:yNN1
 github.com/noble-assets/forwarding/v2 v2.0.0-20241017154500-56685530d602/go.mod h1:OGbKgjHf/4HHthbilK9RCPsBXUS40LFxRl4cAcNhqwk=
 github.com/noble-assets/halo/v2 v2.0.0-20240928083543-bd3392537219 h1:kFPNHaKQ6L6FY/qcXVe5guZnBmpbx1YVApyxywMSpAs=
 github.com/noble-assets/halo/v2 v2.0.0-20240928083543-bd3392537219/go.mod h1:DY4GCfZ/7S3IEjoJBCCh7HRTxirPBOLMVwkT0N6n3bA=
+github.com/noble-assets/halo/v2 v2.0.0-20241029080800-07197548621e h1:eh18t7uWk8Q5a6bHSM2EcxO29cMsOXX4LRqe4HNRcmM=
+github.com/noble-assets/halo/v2 v2.0.0-20241029080800-07197548621e/go.mod h1:DY4GCfZ/7S3IEjoJBCCh7HRTxirPBOLMVwkT0N6n3bA=
 github.com/nunnatsa/ginkgolinter v0.16.2 h1:8iLqHIZvN4fTLDC0Ke9tbSZVcyVHoBs0HIbnVSxfHJk=
 github.com/nunnatsa/ginkgolinter v0.16.2/go.mod h1:4tWRinDN1FeJgU+iJANW/kz7xKN5nYRAOfJDQUS9dOQ=
 github.com/nxadm/tail v1.4.4/go.mod h1:kenIhsEOeOJmVchQTgglprH7qJGnHDVpk1VPCcaMI8A=
