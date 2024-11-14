@@ -358,4 +358,4 @@ require (
 // use cosmos compatible syndtr/goleveldb
 replace github.com/syndtr/goleveldb => github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
 
-replace github.com/circlefin/noble-fiattokenfactory => github.com/noble-assets/fiattokenfactory v0.0.0-20241030165025-e3796e8ba8c1
+replace github.com/circlefin/noble-fiattokenfactory => github.com/noble-assets/fiattokenfactory v0.0.0-20241114165410-6e3ccbadac22
